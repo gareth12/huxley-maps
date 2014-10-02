@@ -1,0 +1,11 @@
+ul{
+	width:760px;
+	margin-bottom:20px;
+	overflow:hidden;
+}
+li{
+	line-height:1.5em;
+	float:left;
+	display:inline;
+}
+#ten li		{ width:10%; }
